@@ -13,7 +13,7 @@ namespace GAME
         Random number = new Random();
         public gameing()
         {
-            boolupdate();            //判断数据更新，总之就是判断数据，没有解释！！
+            boolupdate();            //判断数据更新！
             numberupdate();         //游戏数据更新，像是敌方的位置啊，血量位置啊什么的
 
             oneulupdate();           //界面ul更新
