@@ -1,0 +1,14 @@
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\bin\Debug\net8.0\GAME.exe
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\bin\Debug\net8.0\GAME.deps.json
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\bin\Debug\net8.0\GAME.runtimeconfig.json
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\bin\Debug\net8.0\GAME.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\bin\Debug\net8.0\GAME.pdb
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.AssemblyInfoInputs.cache
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.AssemblyInfo.cs
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.csproj.CoreCompileInputs.cache
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\refint\GAME.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.pdb
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\GAME.genruntimeconfig.cache
+C:\Users\yshf4\Desktop\回合制掷筛框架 - 副本\obj\Debug\net8.0\ref\GAME.dll

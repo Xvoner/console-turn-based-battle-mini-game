@@ -1,0 +1,5 @@
+C:\Users\yshf4\Desktop\素材\game\掷筛子小游戏.exe
+C:\Users\yshf4\Desktop\素材\game\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\素材\game\掷筛子小游戏.deps.json
+C:\Users\yshf4\Desktop\素材\game\掷筛子小游戏.runtimeconfig.json
+C:\Users\yshf4\Desktop\素材\game\掷筛子小游戏.pdb

@@ -1,0 +1,56 @@
+C:\Users\yshf4\Desktop\掷筛子小游戏\bin\Debug\net8.0\掷筛子小游戏.exe
+C:\Users\yshf4\Desktop\掷筛子小游戏\bin\Debug\net8.0\掷筛子小游戏.deps.json
+C:\Users\yshf4\Desktop\掷筛子小游戏\bin\Debug\net8.0\掷筛子小游戏.runtimeconfig.json
+C:\Users\yshf4\Desktop\掷筛子小游戏\bin\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛子小游戏\bin\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfoInputs.cache
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfo.cs
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.csproj.CoreCompileInputs.cache
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\refint\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\掷筛子小游戏.genruntimeconfig.cache
+C:\Users\yshf4\Desktop\掷筛子小游戏\obj\Debug\net8.0\ref\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架\bin\Debug\net8.0\掷筛子小游戏.exe
+C:\Users\yshf4\Desktop\掷筛框架\bin\Debug\net8.0\掷筛子小游戏.deps.json
+C:\Users\yshf4\Desktop\掷筛框架\bin\Debug\net8.0\掷筛子小游戏.runtimeconfig.json
+C:\Users\yshf4\Desktop\掷筛框架\bin\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架\bin\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfoInputs.cache
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfo.cs
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.csproj.CoreCompileInputs.cache
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\refint\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\掷筛子小游戏.genruntimeconfig.cache
+C:\Users\yshf4\Desktop\掷筛框架\obj\Debug\net8.0\ref\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\bin\Debug\net8.0\掷筛子小游戏.exe
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\bin\Debug\net8.0\掷筛子小游戏.deps.json
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\bin\Debug\net8.0\掷筛子小游戏.runtimeconfig.json
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\bin\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\bin\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfoInputs.cache
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfo.cs
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.csproj.CoreCompileInputs.cache
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\refint\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\掷筛子小游戏.genruntimeconfig.cache
+C:\Users\yshf4\Desktop\掷筛框架 - 副本\obj\Debug\net8.0\ref\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架\bin\Debug\net8.0\掷筛子小游戏.exe
+C:\Users\yshf4\Desktop\回合制掷筛框架\bin\Debug\net8.0\掷筛子小游戏.deps.json
+C:\Users\yshf4\Desktop\回合制掷筛框架\bin\Debug\net8.0\掷筛子小游戏.runtimeconfig.json
+C:\Users\yshf4\Desktop\回合制掷筛框架\bin\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架\bin\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfoInputs.cache
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.AssemblyInfo.cs
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.csproj.CoreCompileInputs.cache
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\refint\掷筛子小游戏.dll
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.pdb
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\掷筛子小游戏.genruntimeconfig.cache
+C:\Users\yshf4\Desktop\回合制掷筛框架\obj\Debug\net8.0\ref\掷筛子小游戏.dll
